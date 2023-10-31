@@ -1,0 +1,55 @@
+header, h1, h2, h3, p, nav, h4, body {
+  text-align: center;
+    padding: 10px;
+}  
+
+header {
+  background-image: url("images/highway.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+body {
+  background-color: #e0e1db;
+}
+
+nav {
+  background-color: red;
+  font-family: comic sans ms;
+}
+
+
+footer {
+  background-color: #4d4865;
+}
+
+a:link {color: orange;}
+a:visited{color: #0828c9;}
+a:hover{color: #0f0b06;}
+a:active {color: #d31717;}
+
+h1 {
+  font-weight: 900;
+  letter-spacing: 10px;
+  font-size: 55px;
+  color: #256024;
+  font-family: monospace, Arial, sans-serif;
+}
+
+h2 {
+  font-size: 35px;
+  color: #5da35c;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h3, p, ol, h2, main {
+  font-family: monospace, Arial, sans-serif;
+}
+
+
+
+
+
